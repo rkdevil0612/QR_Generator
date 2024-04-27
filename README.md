@@ -2,6 +2,7 @@
 Generate QR using HTML
 
 Main line of code:
+
           <img src="https://image-charts.com/chart?chs=150x150&cht=qr&chl=youtube.com&chof=.png&icqrb=00FF00&icrf=00FF00">
 
 In above main line, major components are:
